@@ -19,11 +19,11 @@ session_start();
 $_SESSION['usuario'] = $row->nombre;
 header("Location: inicio.php");
 }else{
-header("Location: index.html");
+header("Location: index.php");
 exit();
 }
 }else{
-header("Location: index.html");
+header("Location: index.php");
 exit();
 }
 

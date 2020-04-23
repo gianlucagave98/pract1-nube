@@ -17,7 +17,7 @@ session_start();
     </head>
     <body>
         <div class="container">
-            <a class="btn btn-primary" href="index.html">Cerrar sesion</a>
+            <a class="btn btn-primary" href="index.php">Cerrar sesion</a>
             <div class="row">
                 <div class="jumbotron ">
                     <h1>
